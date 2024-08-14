@@ -25,15 +25,7 @@ Profissionalmente pretendo seguir na área de tecnologia com o objetivo de me to
 
 ## Habilidades/Conhecimentos 💭:
 Segue abaixo uma lista das linguagens que conheço e/ou que estou buscando aperfeiçoamento:
-  
-<img alt="Static Badge" src="https://img.shields.io/badge/%20%20Python-%23FFFFFF?logo=python&logoSize=auto">
 
-<img alt="Static Badge" src="https://img.shields.io/badge/%20%20PHP-%23FFFFFF?logo=php&logoSize=auto">
+<img alt="Static Badge" src="https://img.shields.io/badge/%20%20Python-%23FFFFFF?logo=python&logoSize=auto"> <img alt="Static Badge" src="https://img.shields.io/badge/%20%20PHP-%23FFFFFF?logo=php&logoSize=auto"> <img alt="Static Badge" src="https://img.shields.io/badge/%20%20HTML5-%23FFFFFF?logo=html5&logoSize=auto">
 
-<img alt="Static Badge" src="https://img.shields.io/badge/%20%20HTML5-%23FFFFFF?logo=html5&logoSize=auto">
-
-<img alt="Static Badge" src="https://img.shields.io/badge/%20%20JavaScript-%23FFFFFF?logo=javascript&logoSize=auto">
-
-<img alt="Static Badge" src="https://img.shields.io/badge/%20%20CSS3-%23FFFFFF?logo=css3&logoColor=%23000000&logoSize=auto">
-
-<img alt="Static Badge" src="https://img.shields.io/badge/%20%20MYSQL-%23FFFFFF?logo=mysql&logoSize=auto">
+<img alt="Static Badge" src="https://img.shields.io/badge/%20%20JavaScript-%23FFFFFF?logo=javascript&logoSize=auto"> <img alt="Static Badge" src="https://img.shields.io/badge/%20%20CSS3-%23FFFFFF?logo=css3&logoColor=%23000000&logoSize=auto"> <img alt="Static Badge" src="https://img.shields.io/badge/%20%20MYSQL-%23FFFFFF?logo=mysql&logoSize=auto">
