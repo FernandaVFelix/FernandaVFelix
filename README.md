@@ -10,7 +10,7 @@ Caso queira entrar em contato, o meu LinkedIn:
 
 ## Sobre mim 📝:
 Me chamo Fernanda Victória Felix Oliveira, tenho 18 anos, 
-amo gatos e cachorros, para passar o tempo gosto de ler, ouvir música e jogar.
+amo gatos e cachorros, para passar o tempo gosto de ler, ouvir música e jogar jogos de tabuleiro ou eletrônicos.
 
 
 ## Acadêmico 👩🏻‍🎓:
