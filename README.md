@@ -1,11 +1,11 @@
 ## Olá, seja bem vindo(a)!👋
 Utilazerei o git como portifólio guardando projetos e estudos.
 
-<img alt="Static Badge" src="https://img.shields.io/badge/GitHub-FernandaFelix-%23202020?style=flat-square&logo=github&logoColor=%23202020&labelColor=%23E0E0E0&link=https%3A%2F%2Fgithub.com%2FFernandaVFelix">
+<img alt="Static Badge" src="https://img.shields.io/badge/GitHub-FernandaVFelix-%23202020?style=flat-square&logo=github&logoColor=%23202020&labelColor=%23E0E0E0&link=https%3A%2F%2Fgithub.com%2FFernandaVFelix">
 
-Caso queira entrar em contato, segue o link do meu LinedIn:
+Caso queira entrar em contato, o meu LinkedIn:
 
-<img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-FernandaFelix-%236666FF?style=flat-square&logo=linkedin&logoColor=%236666FF&labelColor=%23E0E0E0&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ffernanda-vict%25C3%25B3ria-felix-2b8194245%3Futm_source%3Dshare%26utm_campaign%3Dshare_via%26utm_content%3Dprofile%26utm_medium%3Dandroid_app">
+<img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-Fernanda Victória Felix-%236666FF?style=flat-square&logo=linkedin&logoColor=%236666FF&labelColor=%23E0E0E0&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ffernanda-vict%25C3%25B3ria-felix-2b8194245%3Futm_source%3Dshare%26utm_campaign%3Dshare_via%26utm_content%3Dprofile%26utm_medium%3Dandroid_app">
 
 
 ## Sobre mim 📝:
