@@ -19,7 +19,7 @@ amo gatos e cachorros, para passar o tempo gosto de ler, ouvir música e jogar j
 2021/2023 : Iniciei e me formei no curso Técnico de informática integrado ao ensino médio no Instituto Federal De Educação, Ciência e Tecnologia de 
 São Paulo - Campus Capivari.
 
-2024/Atualmente: Estou cursando Desenvolvimento de Software Multiplataforma na Fatec Indaiatuba - Faculdade de Tecnologia de Indaiatuba Dr. Arquimedes Lammoglia
+2024/Atualmente: Estou cursando Análise e Desenvolvimento de Sistemas na Uninter Indaiatuba.
 
 
 ## Profissional 👩🏻‍💻:
