@@ -62,7 +62,7 @@ export const Header = () => {
         data-open={drawer}
         tabIndex={drawer ? undefined : -1}
         onClick={() => setDrawer(false)}
-        className="bg-gradient-to-r from-background fixed top-0 left-0 bottom-0 right-0 transition-transform data-[open=false]:-translate-full"
+        className="bg-linear-to-r from-background fixed top-0 left-0 bottom-0 right-0 transition-transform data-[open=false]:-translate-full"
       >
         <ul
           className="flex gap-4 flex-col p-4 h-full w-60 bg-background "
