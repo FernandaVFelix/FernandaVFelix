@@ -9,7 +9,7 @@ export default function PageHome() {
   return (
     <div>
       <main>
-        <Section />
+        <Section variant="h-list" title="Veja mais cursos" />
       </main>
     </div>
   );
