@@ -1,8 +1,11 @@
+import { CollapsibleText } from "./components/CollapsibleText";
+
 export const CourseHeader = () => {
   return (
     <div className="flex flex-col gap-2">
       <h1 className="font-extrabold text-xl">🎩 Curso de Figma para DEVs</h1>
-      <p>
+
+      <CollapsibleText numberOfLinesWhenClosed={3}>
         Os melhores desenvolvedores do mercado fazem questão que estar
         preparados para os mais diversos tipos de desafios nas suas carreiras. A
         habilidade de desenvolver protótipos ou mesmo de entender como um
@@ -12,7 +15,8 @@ export const CourseHeader = () => {
         programação ao decorrer do curso. Tenho certeza que esse tem o potencial
         de ser o melhor curso de figma para desenvolvedores disponíveis
         gratuitamente. #CODARSE
-      </p>
+      </CollapsibleText>
+
       <div className="flex gap-2 items-center">
         <button className="py-2 px-4 bg-paper rounded-full">
           Compartilhar
